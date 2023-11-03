@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bugdettracker-dev-115047-authRole",
+      "UnauthRoleArn": "arn:aws:iam::080169100169:role/amplify-bugdettracker-dev-115047-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::080169100169:role/amplify-bugdettracker-dev-115047-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bugdettracker-dev-115047-deployment",
+      "UnauthRoleName": "amplify-bugdettracker-dev-115047-unauthRole",
+      "StackName": "amplify-bugdettracker-dev-115047",
+      "StackId": "arn:aws:cloudformation:us-east-1:080169100169:stack/amplify-bugdettracker-dev-115047/db5d6de0-7a36-11ee-866b-121b60773fad",
+      "AmplifyAppId": "d7yalesehi4g0"
+    },
+    "categories": {
+      "auth": {
+        "bugdettracker60e77b95": {}
+      },
+      "api": {
+        "bugdettracker": {}
+      }
+    }
+  }
+}

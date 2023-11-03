@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bugdettracker",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authbugdettracker60e77b95"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
